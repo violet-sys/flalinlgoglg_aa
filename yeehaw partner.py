@@ -1,0 +1,8 @@
+my_file = open("YEEHAW PARTNER.txt","w+")
+my_file.write("YEEHAW PARTNER")
+my_file = open("YEEHAW.txt","w+")
+my_file.write("YEEHAW ")
+my_file = open("YEEHAW PARTNER .txt","w+")
+my_file.write("YEEHAW.PARTNER")
+my_file = open("YEEHAW-PARTNER.txt","w+")
+my_file.write("YEEHAW_PARTNER")
